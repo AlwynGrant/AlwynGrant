@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there, welcome! 👋
 
-<!--
-**AlwynGrant/AlwynGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student currently enrolled at App Academy to become a Full Stack software engineer & reliable team member!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About me: 
+
+- 🔭 I’m currently working on: 
+   * A card collection tracker for the most popular TCGames. 
+   * A clone of Netflix! [Check it out!](https://github.com/AlwynGrant/Notflix) 
+- 🌱 I’m currently enrolled at App Academy to become a Full Stack software engineer & reliable team member!
+- 📫 How to reach me: marzgrant@gmail.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwynGrant&theme=buefy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwynGrant&layout=compact&theme=buefy&hide_border=true)
