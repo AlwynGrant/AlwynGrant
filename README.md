@@ -40,6 +40,12 @@ I'm a student currently enrolled at App Academy to become a Full Stack software 
 <a href="https://www.postgresql.org/" title="PostgreSQL">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="postgresql" width="21px" height="21px">
 </a>
+<a href="https://www.postman.com/" title="Postman">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="postman" width="21px" height="21px">
+</a>
+<a href="https://pugjs.org/api/getting-started.html" title="Pug">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/pug.svg" alt="pug" width="21px" height="21px">
+</a>
 <a href="https://git-scm.com/" title="Git">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="git-icon" width="21px" height="21px">
 </a>
