@@ -7,7 +7,7 @@ I'm a software engineer looking to join a collaborative team and create and ship
 - ❤️ A passionate learner always looking to understand more data structures, algorigms, and programming paradigms.
 - 🔭 Currently working on: 
    * A scalable card collection tracker for the most popular TCGames. 
-- 🌱 Always looking for new ways to better myself and my projects!
+- 🌱 Always looking for new ways increase efficiency through continous integration & development.
 - 📫 How to reach me: marzgrant@gmail.com
 
 
