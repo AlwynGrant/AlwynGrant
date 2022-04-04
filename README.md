@@ -1,14 +1,13 @@
 ### Hey there, welcome! 👋
 
-I'm a student currently enrolled at App Academy to become a Full Stack software engineer & reliable team member!
+I'm a software engineer looking to join a collaborative team of like-minded engineers!
 
 #### About me: 
 
-- ❤️ A passionate learner always looking to understand more.
+- ❤️ A passionate learner always looking to understand more data structures, algorigms, and programming paradigms.
 - 🔭 Currently working on: 
    * A scalable card collection tracker for the most popular TCGames. 
-   * A pixelperfect clone of Netflix! [Check it out!](https://github.com/AlwynGrant/Notflix) 
-- 🌱 I’m currently enrolled at App Academy to become a Full Stack software engineer & reliable team member!
+- 🌱 Always looking for new ways to better myself and my projects!
 - 📫 How to reach me: marzgrant@gmail.com
 
 
