@@ -1,6 +1,6 @@
 ### Hey there, welcome! 👋
 
-I'm a software engineer looking to join a collaborative team of like-minded engineers!
+I'm a software engineer looking to join a collaborative team and create and ship impactful features!
 
 #### About me: 
 
