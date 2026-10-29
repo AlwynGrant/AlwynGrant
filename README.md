@@ -1,14 +1,12 @@
-### Hey there, welcome! 👋
+### Hey there 👋
 
-I'm a software engineer looking to join a collaborative team and create and ship impactful features!
+I'm a software engineer in SoCal looking to join a collaborative team to build some cool things. 
 
 #### About me: 
 
-- ❤️ A passionate learner always looking to understand more data structures, algorigms, and programming paradigms.
+- ❤️ Love to learn, and share learning
 - 🔭 Currently working on: 
-   * A scalable card collection tracker for the most popular TCGames. 
-- 🌱 Always looking for new ways increase efficiency through continous integration & development.
-- 📫 How to reach me: marzgrant@gmail.com
+   * A scalable card collection web app for some of the most popular Trading Card Games out today. 
 
 
 <br /> 
@@ -61,9 +59,4 @@ I'm a software engineer looking to join a collaborative team and create and ship
   <img src="https://github.com/get-icon/geticon/raw/master/icons/heroku-icon.svg" alt="docker" width="31px" height="31px">
 </a>
 
-
-#### 
-
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwynGrant&theme=buefy) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwynGrant&layout=compact&theme=buefy&hide_border=true) |
-| ------------- | ------------- |
 
